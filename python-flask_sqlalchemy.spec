@@ -11,7 +11,7 @@ Summary:	Flask microframework extension which adds support for the SQLAlchemy SQ
 Summary(pl.UTF-8):	Rozszerzenie Flask dodające wsparcie dla SQLAlchemy
 Name:		python-%{module}
 Version:	2.2
-Release:	1
+Release:	2
 License:	BSD
 Group:		Libraries/Python
 Source0:	https://github.com/mitsuhiko/flask-sqlalchemy/releases/download/%{version}/Flask-SQLAlchemy-%{version}.tar.gz
